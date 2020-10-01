@@ -4,7 +4,7 @@
 ### Glad to see you here! 🤩 ;
 
 I am a passionate developer.
-- 🔭 I’m currently working on a CMS Project with PHP [To Mail](https://github.com/ohidurbappy/ToMail)
+- 🔭 I’m currently working on a CMS Project with PHP 
 - 🌱 I’m currently learning JSON
 - 🦠 Just finished a [COVID-19 Tracker](https://papsy-covid.herokuapp.com/)
 
