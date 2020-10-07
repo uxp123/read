@@ -1,6 +1,6 @@
 ### Hi there, I'm [Papsy!](https://philipapsy.com) 👋
 
-![](pap.gif)
+![](paps.gif)
 
 
 ### Glad to see you here! 🤩 ;
