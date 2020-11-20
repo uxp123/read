@@ -7,7 +7,7 @@
 
 I am a passionate developer.
 
-- 🌱 I’m currently learning JSON
+- 🌱 I’m currently going through JSON
 - 🦠 Just finished a [COVID-19 Tracker](https://papsy-covid.herokuapp.com/)
 
 
