@@ -6,7 +6,7 @@
 ### Glad to see you here! 🤩 ;
 
 I am a passionate developer.
-- 🔭 I’m currently working on a [Digital Inclusion Challenge](https://github.com/uxp123/eschoolsnet/)
+
 - 🌱 I’m currently learning JSON
 - 🦠 Just finished a [COVID-19 Tracker](https://papsy-covid.herokuapp.com/)
 
